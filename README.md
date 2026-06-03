@@ -4,7 +4,7 @@ An interactive Shiny application for exploring the behavior of Pearson's correla
 
 ## App Preview
 
-
+![App Screenshot](screenshot.png)
 
 ## Overview
 

@@ -2,6 +2,10 @@
 
 An interactive Shiny application for exploring the behavior of Pearson's correlation coefficient under different transformations for an introductory statistics course.
 
+## App Preview
+
+
+
 ## Overview
 
 This project visualizes how Pearson's correlation coefficient changes (or remains invariant) when applying transformations to variables.

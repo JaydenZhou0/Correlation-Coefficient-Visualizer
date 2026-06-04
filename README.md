@@ -1,6 +1,10 @@
-# Correlation-Coefficient-Visualizer
+# Correlation Coefficient Visualizer
 
 An interactive Shiny application for exploring the behavior of Pearson's correlation coefficient under different transformations for an introductory statistics course.
+
+## Live Demo
+
+https://github.com/JaydenZhou0/Correlation-Coefficient-Visualizer/tree/main
 
 ## App Preview
 

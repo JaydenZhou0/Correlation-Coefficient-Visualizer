@@ -12,18 +12,11 @@ https://github.com/JaydenZhou0/Correlation-Coefficient-Visualizer/tree/main
 
 ## Overview
 
-This project visualizes how Pearson's correlation coefficient changes (or remains invariant) when applying transformations to variables.
+This project was designed as an educational tool to help students develop an intuitive understanding of correlation and linear relationships.
 
-Users can:
+Users can dynamically apply transformations to variables and observe how Pearson correlation behaves under translation, scaling, and variable exchange.
 
-* Randomly generate paired data
-* Add custom points
-* Apply arithmetic transformations to variables
-* Exchange x and y variables
-* Compare scatterplots before and after transformation
-* Observe how the correlation coefficient changes in real time
-
-The application is designed as an educational tool for statistics students learning the geometric and algebraic interpretation of correlation.
+The app emphasizes exploratory learning through interactive scatterplots and real-time statistical feedback.
 
 ## Features
 

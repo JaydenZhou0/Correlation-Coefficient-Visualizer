@@ -8,7 +8,7 @@ An interactive Shiny application for exploring the behavior of Pearson's correla
 
 ## Live Demo
 
-Launch the App(https://pcfy1b-jayden-zhou.shinyapps.io/correlation/)
+[Launch the App](https://pcfy1b-jayden-zhou.shinyapps.io/correlation/)
 
 ## Overview
 

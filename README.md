@@ -6,10 +6,6 @@ An interactive Shiny application for exploring the behavior of Pearson's correla
 
 ![App Screenshot](screenshot.png)
 
-## Live Demo
-
-[Launch the App](https://pcfy1b-jayden-zhou.shinyapps.io/correlation/)
-
 ## Overview
 
 This project visualizes how Pearson's correlation coefficient changes (or remains invariant) when applying transformations to variables.
